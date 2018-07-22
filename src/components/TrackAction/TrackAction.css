@@ -1,0 +1,10 @@
+.TrackAction {
+  cursor: pointer;
+  padding: .5rem;
+  font-size: 1.05rem;
+  transition: color .25s;
+}
+
+.TrackAction:hover {
+  color: rgba(265, 265, 265, .5);
+}
